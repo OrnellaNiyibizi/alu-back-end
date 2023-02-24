@@ -27,4 +27,4 @@ if __name__ == '__main__':
                               "completed": task["completed"],
                               "username": user_info["username"]}
                              for task in todos_info]}, jsonfile)
-     
+  
